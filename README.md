@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <!--
 **unanbb/unanbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
