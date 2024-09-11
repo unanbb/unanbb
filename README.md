@@ -1,7 +1,8 @@
 ## Hi there 👋
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=Html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6.svg?&style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat-square&logo=Javascript&logoColor=white">
+<img alt="REACT" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white"/>
+<img alt="TypeScript" src ="https://img.shields.io/badge/Typescript-3178C6.svg?&style=flat-square&logo=Typescript&logoColor=white"/>
 <!--
 **unanbb/unanbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
