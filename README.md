@@ -9,7 +9,7 @@
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=round-square&logo=React&logoColor=white"/>
   <br/>
   <img alt="TypeScript" src ="https://img.shields.io/badge/Typescript-3178C6.svg?&style=round-square&logo=Typescript&logoColor=white"/>
-  <img alt="Styled-components" src ="https://img.shields.io/badge/styledComponents-DB7093.svg?&style=round-square&logo=styledComponents&logoColor=white"/>
+  <img alt="Styled-components" src ="https://img.shields.io/badge/styled--components-DB7093.svg?&style=round-square&logo=styledComponents&logoColor=white"/>
   <img alt="Vite" src ="https://img.shields.io/badge/Vite-646CFF.svg?&style=round-square&logo=Vite&logoColor=white"/>
   <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-5FA04E.svg?&style=round-square&logo=Node.js&logoColor=white"/>
   <br/>
