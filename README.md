@@ -4,7 +4,7 @@
   
   
   <h2>🛠 Stack List 🛠</h2>
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=round-square&logo=Html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6.svg?&style=round-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=round-square&logo=Html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=round-square&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=round-square&logo=Javascript&logoColor=white">
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=round-square&logo=React&logoColor=white"/>
   <br/>
